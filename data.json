@@ -3,11 +3,12 @@
   {"sentence":"Skibidi Toilet!","type":"school, skibidi"},
   {"sentence":"Sigma!","type":"school"},
   {"sentence":"Cooler!","type":"school"},
-  {"sentence":"You think my code is better or Preston's code is better?","type":"school, code"},
+  {"sentence":"You think my code is better or Preston's code is better?","type":"school, code, Mr.Ray"},
+  {"sentence":"I cannot tell you the awnser! I will be gone!","type":"school, Mr.Ray"},
   {"sentence":"Calculator on the street!","type":"school, calculator"},
-  {"sentence":"Good boatswings! Have care! Where the master! Play the man, make them work ! Do something!","type":"tempest, alonso, movie"},
+  {"sentence":"Good boatswing! Have care! Where the master! Play the man, make them work ! Do something!","type":"tempest, alonso, movie"},
   {"sentence":"Please sir I want some more","type":"oliver"},
   {"sentence":"Help Mrs! There is a boy muddering me","type":"oliver, movie"},
   {"sentence":"I hate Mr.Feltman!","type":"hate"},
-  {"sentence":"I hate Hailey!","type":"hate"}  
+  {"sentence":"I hate Hailey!","type":"hate"}
 ]
