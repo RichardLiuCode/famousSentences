@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
-<script>
+    <head>
+        <link rel="icon" href="IMG_5009.jpg">
+        <title>Famous sentences</title>
+        <meta name="author" content="Richard Liu">
+        <meat name="Description" content="This is a website that contain many sentences that many people said">
+    </head>
+    <body>
+        <script>
     fetch("https://richardliucode.github.io/famousSentences/data.json")
         .then(function (response) {
             return response.json()
@@ -21,6 +28,6 @@
             }
             display.appendChild(list)
         })
-</script>
-
+       </script>
+    </body>
 </html>
