@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<script>
+    fetch("https://richardliucode.github.io/famousSentences/data.json")
+        .then(function (response) {
+            return response.json()
+        })
+        .then(function (data) {
+            console.log(data);
+            document.body.style = "background-color:skyblue;color:blue;font-family:arial;font-size:2vw"
+            var display = document.body;
+            var top = document.createElement("div");
+            top.style = "font-family:arial;font-size:2vw;color:blue;width:100vw";
+            top.innerHTML = "<h1>Famous Sentence Data</h1>"
+            display.appendChild(top)
+            var list = document.createElement("ol");
+            for (var i = 0; i < data.length; i++) {
+                var listItem = document.createElement("li");
+                listItem.innerText = data[i].sentence;
+                list.appendChild(listItem)
+            }
+            display.appendChild(list)
+        })
+</script>
+
+</html>
