@@ -7,6 +7,7 @@
   {"sentence":"A B C D E F G! Everybody hate Mr.Feltman! He looks like a Oliver! EveryBody wanted shoot him with a gun! Everybody hate Mr Feltman! Don't worry I am one of them too!","type":"hate, Mr.Feltman"},
   {"sentence":"Mr.Feltman! Mr Feltman! Never before has a teacher like you!","type":"hate, Mr.Feltman"},
   {"sentence":"I cannot tell you the awnser! I will be gone!","type":"school, Mr.Ray"},
+  {"sentence":"Is that a good question?","type":"school, Mr.Ray, band"
   {"sentence":"My name is Richard and I an sitting in the corner","type":"Richard, me"},
   {"sentence":"My home has a button, it has some strange sound!","type":"me"},
   {"sentence":"Calculator on the street!","type":"school, calculator, onTheStreet"},
