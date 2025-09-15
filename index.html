@@ -1,33 +1,18 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="icon" href="IMG_5009.jpg">
-        <title>Famous sentences</title>
-        <meta name="author" content="Richard Liu">
-        <meat name="Description" content="This is a website that contain many sentences that many people said">
-    </head>
-    <body>
-        <script>
-    fetch("https://richardliucode.github.io/famousSentences/data.json")
-        .then(function (response) {
-            return response.json()
-        })
-        .then(function (data) {
-            console.log(data);
-            document.body.style = "background-color:skyblue;color:blue;font-family:arial;font-size:2vw"
-            var display = document.body;
-            var top = document.createElement("div");
-            top.style = "font-family:arial;font-size:2vw;color:blue;width:100vw";
-            top.innerHTML = "<h1>Famous Sentence Data</h1>"
-            display.appendChild(top)
-            var list = document.createElement("ol");
-            for (var i = 0; i < data.length; i++) {
-                var listItem = document.createElement("li");
-                listItem.innerText = data[i].sentence;
-                list.appendChild(listItem)
-            }
-            display.appendChild(list)
-        })
-       </script>
-    </body>
+
+<head>
+    <link rel="icon" href="IMG_5009.jpg">
+    <title>Famous sentences</title>
+    <meta name="author" content="Richard Liu">
+    <meat name="Description" content="This is a website that contain many sentences that many people said">
+</head>
+
+<body>
+    <input type="text" id="input">
+    <button id="searchBtn">Search</button>
+    <div id="display"></div>
+    <script type="module" src="script.js"></script>
+</body>
+
 </html>
