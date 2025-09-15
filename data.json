@@ -1,97 +1,74 @@
 [
   {
-    "sentence": "Skibidi dom dom dom yes yes! Skibidi dom dom deep deep!",
-    "type": "school, skibidi"
+    "sentence": "Skibidi dom dom dom yes yes! Skibidi dom dom deep deep!"
   },
   {
-    "sentence": "Skibidi Toilet!",
-    "type": "school, skibidi"
+    "sentence": "Skibidi Toilet!"
   },
   {
-    "sentence": "Sigma!",
-    "type": "school"
+    "sentence": "Sigma!"
   },
   {
-    "sentence": "Cooler!",
-    "type": "school"
+    "sentence": "Cooler!"
   },
   {
-    "sentence": "You think my code is better or Preston's code is better?",
-    "type": "school, code, Mr.Ray"
+    "sentence": "You think my code is better or Preston's code is better?"
   },
   {
-    "sentence": "A B C D E F G! Everybody hate Mr.Feltman! He looks like a Oliver! EveryBody wanted shoot him with a gun! Everybody hate Mr Feltman! Don't worry I am one of them too!",
-    "type": "hate, Mr.Feltman"
+    "sentence": "A B C D E F G! Everybody hate Mr.Feltman! He looks like a Oliver! EveryBody wanted shoot him with a gun! Everybody hate Mr Feltman! Don't worry I am one of them too!"
   },
   {
-    "sentence": "Mr.Feltman! Mr Feltman! Never before has a teacher like you!",
-    "type": "hate, Mr.Feltman"
+    "sentence": "Mr.Feltman! Mr Feltman! Never before has a teacher like you!"
   },
   {
-    "sentence": "I cannot tell you the answer! I will be gone!",
-    "type": "school, Mr.Ray"
+    "sentence": "I cannot tell you the answer! I will be gone!"
   },
   {
-    "sentence": "Is that a good question?",
-    "type": "school, Mr.Ray, band"
+    "sentence": "Is that a good question?"
   },
   {
-    "sentence": "My name is Richard and I an sitting in the corner",
-    "type": "Richard, me"
+    "sentence": "My name is Richard and I an sitting in the corner"
   },
   {
-    "sentence": "My home has a button, it has some strange sound!",
-    "type": "me"
+    "sentence": "My home has a button, it has some strange sound!"
   },
   {
-    "sentence": "Calculator on the street!",
-    "type": "school, calculator, onTheStreet"
+    "sentence": "Calculator on the street!"
   },
   {
-    "sentence": "Calculator in the trash!",
-    "type": "school, calculator, onTheStreet"
+    "sentence": "Calculator in the trash!"
   },
   {
-    "sentence": "Calculator in the gruel",
-    "type": "school, calculator, gruel, onTheStreet"
+    "sentence": "Calculator in the gruel"
   },
   {
-    "sentence": "Computer on the street!",
-    "type": "school, onTheStreet"
+    "sentence": "Computer on the street!"
   },
   {
-    "sentence": "Alarm clock on the street!",
-    "type": "school, onTheStreet"
+    "sentence": "Alarm clock on the street!"
   },
   {
-    "sentence": "Good boatswing! Have care! Where the master! Play the man! Make them work ! Do something!",
-    "type": "tempest, alonso, movie"
+    "sentence": "Good boatswing! Have care! Where the master! Play the man! Make them work ! Do something!"
   },
   {
-    "sentence": "Help! Help! Rescue me! All will be lost to the deep blue sea!",
-    "type": "tempest, movie"
+    "sentence": "Help! Help! Rescue me! All will be lost to the deep blue sea!"
   },
   {
-    "sentence": "Please sir I want some more",
-    "type": "oliver"
+    "sentence": "Please sir I want some more"
   },
   {
-    "sentence": "Oliver! Oliver! Never before has a boy wanted some more!",
-    "type": "oliver"
+    "sentence": "Oliver! Oliver! Never before has a boy wanted some more!"
   },
   {
-    "sentence": "Help Mrs! There is a boy muddering me",
-    "type": "oliver, movie, noah"
+    "sentence": "Help Mrs! There is a boy muddering me"
   },
   {
-    "sentence": "I hate Mr.Feltman!",
-    "type": "hate, Mr.Feltman"
+    "sentence": "I hate Mr.Feltman!"
   },
   {
-    "sentence": "I hate Hailey!",
-    "type": "hate"
+    "sentence": "I hate Hailey!"
   },
   {
-    "sentence": "We tell jokes! I do trick! With Preston's jumpscale and Mr.Ray!"
+    "sentence": "We tell jokes! I do trick! With Preston's jumpscare and Mr.Ray!"
   }
 ]
