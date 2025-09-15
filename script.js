@@ -7,7 +7,7 @@ document.getElementById("searchBtn").addEventListener("click", function () {
     }
     if (checkIsInput != "") {
 
-        fetch("/data.json")
+        fetch("data.json")
             .then(function (response) {
                 return response.json()
             })
